@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Eye Contact, How Much Is Enough?
+tags: Tiger Eyes SocialNorms 
 ---
 ![Dumb Tiger](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Eye_contact_with_the_tiger_-_Kanha_National_Park.jpg/640px-Eye_contact_with_the_tiger_-_Kanha_National_Park.jpg)  
 
